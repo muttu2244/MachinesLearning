@@ -1,0 +1,6 @@
+supervised learning
+unsupervised learning
+Reinforcement Learning
+
+Classification algorithms
+	Naive bayes is a classifier
